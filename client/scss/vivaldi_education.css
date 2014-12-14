@@ -1,0 +1,100 @@
+
+/*a {
+    text-decoration: none !important;
+    color: black;
+}
+
+.page-wrap {
+    height: 3000px;
+}
+*/
+
+.nav-bar {
+    height: 125px;
+}
+
+.title {
+    display: inline-block;
+    padding-left: 30px;
+}
+
+.logo-lg {
+    margin-top: 35px;
+    background: url(/images/logo-lg.svg);
+    background-repeat: no-repeat;
+    height: 57px;
+    width: 310px;
+    display: inline-block;
+}
+li.nav-elements{
+    font-size: 18pt;
+    display: inline-block;
+    padding-right: 30px;
+    padding-top: 46px;
+}
+
+section.dark-bg {
+    background: url(/images/music.png);
+    height: 415px;
+    color: white !important;
+    text-align: center;
+    line-height: 40px;
+    box-shadow: 0px 3px 10px 5px #666;
+}
+.dark-bg-shadow {
+    background: #888888
+}
+h2.dark-header {
+    padding-top: 40px;
+}
+p {
+    font-size: 16pt;
+}
+p.dark-info {
+    padding-top: 10px;
+    line-height: 40pt;
+}
+h3.dark-info {
+    padding-top: 10px;
+    line-height: 30pt;
+    font-size: 21pt;
+}
+.divider {
+    margin-top: -5px;
+}
+.white-color {
+    color: white;
+}
+
+article.info {
+    padding-top: 80px;
+}
+.item-title {
+    font-size: 30pt;
+}
+.item-text {
+    line-height: 30pt;
+}
+
+.member-img {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    overflow: hidden;
+    border: 1px solid black;
+}
+.member-name {
+    padding-bottom: 10px;
+}
+
+.team-field {
+    padding-top: 60px;
+}
+.team-text {
+    padding-top: 30px;
+}
+.info-text {
+    font-size: 12pt;
+}
